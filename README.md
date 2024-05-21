@@ -2,9 +2,10 @@
 
 **Objectives:**
 
-    Write a function that takes an instagram username and retrieves a specified number of posts, 
-    each with a specified number of comments. The extracted data should then be 
-    saved in a CSV file using a meaningful structure.
+
+Write a function that takes an instagram username and retrieves a specified number of posts, 
+each with a specified number of comments. The extracted data should then be 
+saved in a CSV file using a meaningful structure.
 
 **Requirements:**
   1. Input parameters:
@@ -35,13 +36,13 @@
 **Questions?**
   If you have any questions, please contact me at:
 
-  Adenuga opeyemi
+  ## Adenuga opeyemi
   
-    Github : Aopeyemi98
-    
-    Email me : adenugaopeyemi98@gmail.com
+- Github : .[Adenuga Opeyemi](https://github.com/Aopeyemi98).
+
+- Email me : .[adenugaopeyemi98@gmail.com](mailto:adenugaopeyemi98@gmail.com).
 
 
 License
 
-  - This Project is licensed under the MIT License. See the LICENSE file for details.
+  - This Project is licensed under the [MIT License](https://opensource.org/licenses/MIT). See the `LICENSE` file for details.
