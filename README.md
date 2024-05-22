@@ -1,4 +1,4 @@
-###### **Extraction of Instagram Data**
+###### **Extraction of Data from Instagram**
 
 **Objectives:**
 
