@@ -36,12 +36,12 @@ def extract_instagram_data(username, num_posts, num_comments):
             for comment in post.get_comments():
                 if comment_count >= num_comments:
                     break
-                comments.append([{
-                    'comment_id': comment.id["Comment_id"],
-                    'comment_owner': comment.owner.username,
-                    'comment_text': comment.text,
-                    'comment_likes': comment.likes_count,
-                    }])
+                comments.append([
+                    comment.id,
+                    comment.owner.username,
+                    comment.text,
+                    comment.likes_count,
+                    ])
             comment_count += 1
 
 
